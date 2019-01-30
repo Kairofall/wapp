@@ -6,4 +6,8 @@ class PagesController < ApplicationController
   def about
     #render 'about.html.erb'
   end
+
+  def cebedell
+    #render 'cebedell.html.erb'
+  end
 end
